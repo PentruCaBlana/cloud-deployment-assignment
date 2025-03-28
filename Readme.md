@@ -37,7 +37,7 @@ While the script is built to meet full assignment specs, testing was done using 
    ```bash
    gcloud init
    ```
-3. Replace `your-project-id` in `DeploymentScript.sh` with your actual GCP project ID.
+3. Replace `PROJECT_ID` in `DeploymentScript.sh` with your actual GCP project ID.
 4. Run the deployment script:
    ```bash
    chmod +x DeploymentScript.sh
